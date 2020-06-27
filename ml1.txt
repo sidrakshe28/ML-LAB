@@ -1,0 +1,15 @@
+create and display vector
+create matrix perform matrix operations
+create sparse matrix
+slicing operations in vector
+finding matrix shape size and dimension
+use of lambda func
+finding minimum and maximum values in a matrix
+calculating avg, variance, standard deviation of the matrices
+reshaping arrays
+transposing vectors and matrix
+flattening a matrix
+getting diagonal elements of a matrix
+finding eigen values and vectors
+finding dot product of a matrix
+random values 
